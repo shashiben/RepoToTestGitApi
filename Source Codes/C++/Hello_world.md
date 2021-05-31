@@ -59,7 +59,7 @@ B Shashi Kumar
 Roll No:11706004
 ```
 <a href="https://shashiben.me">
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQEgY9OTq5ZNwQ/profile-displayphoto-shrink_800_800/0/1620666120685?e=1627516800&v=beta&t=RqxX0dBC8f8f2_eb3vLLVF5VJUiMnqks3E8Enocidt4"" width="100px;" alt=""/>
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQEgY9OTq5ZNwQ/profile-displayphoto-shrink_800_800/0/1620666120685?e=1627516800&v=beta&t=RqxX0dBC8f8f2_eb3vLLVF5VJUiMnqks3E8Enocidt4""  alt=""/>
 <br /><sub>
 <b>B Shashi Kumar</b>
 <br />
