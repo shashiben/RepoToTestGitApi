@@ -38,3 +38,8 @@ if __name__ == "__main__":
         print("Element is present at index {}".format(result))
     else:
         print("Element is not present in array")
+"""
+Contributed By
+B.Shashi Kumar
+11706004
+"""
