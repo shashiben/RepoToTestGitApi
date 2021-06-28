@@ -1,7 +1,7 @@
 {
   "Chemical Engineering": [
     {
-      "designation": "Assistant  Professor",
+      "designation": ["Assistant  Professor"],
       "name": " Dr. P. Akhila Swathantra",
       "phone": "(+91)-9966183696 ",
       "email": "akhilasweety9@gmail.com ",
@@ -9,7 +9,7 @@
       "imgUrl": " "
     },
     {
-      "designation": "Assistant  Professor",
+      "designation": ["Assistant  Professor"],
       "name": "Dr. B. Sarath Babu ",
       "phone": " (+91)-9849568083",
       "email": "Bsarathbau75@gmail.com ",
@@ -17,10 +17,9 @@
       "imgUrl": " "
     }
   ],
-
   "Civil Engineering": [
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Prof. P. Mallikarjuna ",
       "phone": "(+91)-9441886294 ",
       "email": " mallikarjuna_perugu@yahoo.co.in",
@@ -28,7 +27,7 @@
       "imgUrl": " "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Prof. G.N. Pradeep Kumar ",
       "phone": "(+91)-9963069986 ",
       "email": " saignp@gmail.com",
@@ -36,7 +35,7 @@
       "imgUrl": " "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": " Prof. K. Nagendra Prasad",
       "phone": "(+91)-7842787771 ",
       "email": "kotanp_svu@yahoo.com ",
@@ -44,7 +43,7 @@
       "imgUrl": " "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Prof. I.V. Ramana Reddy ",
       "phone": "(+91)-9849678039 ",
       "email": " svshaar4@yahoo.co.in",
@@ -52,7 +51,7 @@
       "imgUrl": " "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Prof. K. Mallikarjuna Rao ",
       "phone": "(+91)-877-2240348 ",
       "email": " kmr_svuce@yahoo.com",
@@ -60,7 +59,7 @@
       "imgUrl": " "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Prof. M. Srimurali ",
       "phone": "(+91)-9848264604",
       "email": "msrimurali@yahoo.co.in ",
@@ -68,7 +67,7 @@
       "imgUrl": " "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Prof. D.V.S.N. Murthy ",
       "phone": " (+91)-8500049875",
       "email": " dvsmsvu@gmail.com",
@@ -76,7 +75,7 @@
       "imgUrl": " "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": " Prof. Ch. Sudha Rani",
       "phone": "(+91)-9490017047 ",
       "email": " sudhajawahar@gmail.com",
@@ -84,7 +83,7 @@
       "imgUrl": " "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Dr. D.V. Prasada Rao ",
       "phone": " (+91)-9704387674",
       "email": "dvpr@rediffmail.com ",
@@ -92,7 +91,7 @@
       "imgUrl": " "
     },
     {
-      "designation": "Assistant Professor",
+      "designation": ["Assistant Professor"],
       "name": "Sri D. Sreehari Rao ",
       "phone": "(+91)-9959776569 ",
       "email": "rao1777@gmail.com ",
@@ -100,7 +99,7 @@
       "imgUrl": " "
     },
     {
-      "designation": "Assistant Professor",
+      "designation": ["Assistant Professor"],
       "name": "Smt. N. Munilakshmi ",
       "phone": "(+91)-9866437937 ",
       "email": "nml.svuce@gmail.com ",
@@ -108,7 +107,7 @@
       "imgUrl": " "
     },
     {
-      "designation": "Assistant Professor",
+      "designation": ["Assistant Professor"],
       "name": "Smt. T. Hemalatha ",
       "phone": "(+91)-9640862212",
       "email": " t_hemalatha@yahoo.co.in",
@@ -116,7 +115,7 @@
       "imgUrl": " "
     },
     {
-      "designation": "Assistant Professor",
+      "designation": ["Assistant Professor"],
       "name": "Smt. S. Aruna Jyothy ",
       "phone": "(+91)-9885703524",
       "email": "aruna_jyothy@yahoo.co.in ",
@@ -124,7 +123,7 @@
       "imgUrl": " "
     },
     {
-      "designation": "Assistant Professor",
+      "designation": ["Assistant Professor"],
       "name": " Sri B. Madhusudhana Reddy",
       "phone": "(+91)-9492657516",
       "email": "srinimasa@gmail.com ",
@@ -134,7 +133,7 @@
   ],
   "Electrical & Electronics Engineering": [
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Prof. M. Damodara Reddy ",
       "phone": "(+91)-9885428847",
       "email": " mdreddy999@rediffmail.com",
@@ -142,7 +141,7 @@
       "imgurl": "  "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Prof. G.V. Marutheswar ",
       "phone": "(+91)-9290728020 ",
       "email": " marutheswargv@rediff.com",
@@ -150,7 +149,7 @@
       "imgurl": "  "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": " Prof. A. Lakshmi Devi",
       "phone": "(+91)-9441080884",
       "email": "energylak123@yahoo.com ",
@@ -158,7 +157,7 @@
       "imgurl": "  "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Dr. Ch. Chengaiah ",
       "phone": "(+91)-9440403023",
       "email": " chinthapudisvu@gmail.com",
@@ -166,7 +165,7 @@
       "imgurl": "  "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": " Dr. T. Gowri Manoahar",
       "phone": "(+91)-9440474441 ",
       "email": " tgmanohar1973@rediffmail.com",
@@ -174,7 +173,7 @@
       "imgurl": "  "
     },
     {
-      "designation": "Assistant Professor",
+      "designation": ["Assistant Professor"],
       "name": " Dr. V. Usha Reddy",
       "phone": "(+91)-9441116445, (+91)-877-2249988 ",
       "email": "vyza_ushareddy@yahoo.co.in ",
@@ -182,7 +181,7 @@
       "imgurl": "  "
     },
     {
-      "designation": "Assistant Professor",
+      "designation": ["Assistant Professor"],
       "name": "Dr. J.N. ChandraSekhar ",
       "phone": " (+91)-9177177782",
       "email": "chandu.jinka@gmail.com ",
@@ -192,7 +191,7 @@
   ],
   "Electronics and Communication Enggineering": [
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": " Prof. S. Narayana Reddy",
       "phone": " (+91)-9848927815",
       "email": " snreddysvu@yahoo.com",
@@ -200,7 +199,7 @@
       "imgurl": "  "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Prof. R.V.S. Satyanarayana ",
       "phone": "(+91)-9246204470",
       "email": " v.s.ravinutala@gmail.com",
@@ -208,7 +207,7 @@
       "imgurl": "  "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": " Prof. G. Srinivasulu",
       "phone": "(+91)-9490182693 ",
       "email": " gunapatieee@rediffmail.com",
@@ -216,7 +215,7 @@
       "imgurl": "  "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": " Prof. S. Varadarajan",
       "phone": " (+91)-9949300990",
       "email": " varadasouri@gmail.com",
@@ -224,7 +223,7 @@
       "imgurl": "  "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Prof. B. Anuradha ",
       "phone": " (+91)-9441028112",
       "email": "anubhuma@yahoo.com ",
@@ -232,7 +231,7 @@
       "imgurl": "  "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": " Prof. T. Ramashri",
       "phone": " (+91)-9346465050",
       "email": " rama_jaypee@rediffmail.com",
@@ -240,7 +239,7 @@
       "imgurl": "  "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Prof. G. Umamaheswara Reddy ",
       "phone": "(+91)-9177039450",
       "email": "umaskit@gmail.com ",
@@ -248,7 +247,7 @@
       "imgurl": "  "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Prof. T. Sreenivasulu Reddy ",
       "phone": " (+91)-9440415699",
       "email": " mettu86@yahoo.co.in",
@@ -256,7 +255,7 @@
       "imgurl": "  "
     },
     {
-      "designation": " Assistant Professor",
+      "designation": ["Assistant Professor"],
       "name": " Dr. S. Swarnalatha",
       "phone": "(+91)-9490981637",
       "email": "swarnasvu09@gmail.com ",
@@ -264,7 +263,7 @@
       "imgurl": "  "
     },
     {
-      "designation": " Assistant Professor",
+      "designation": ["Assistant Professor"],
       "name": " Dr. D. Gowri Shankar Reddy",
       "phone": "(+91)-8686677877",
       "email": "gowri.durgam@gmail.com ",
@@ -272,7 +271,7 @@
       "imgurl": "  "
     },
     {
-      "designation": " Assistant Professor",
+      "designation": ["Assistant Professor"],
       "name": " Dr. I. Kullayamma",
       "phone": "(+91)-9440488810 ",
       "email": " ikusuma96@gmail.com",
@@ -282,7 +281,7 @@
   ],
   "Mechanical Engineering": [
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Dr. G. Bhanodaya Reddy",
       "phone": " (+91)-9848175066, (+91)-877-2288200 ",
       "email": "bhanodayareddy_svuce@yahoo.co.in",
@@ -290,7 +289,7 @@
       "imgurl": "    "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": " Dr. P. Venkataramaiah",
       "phone": " 08772289445",
       "email": "pvramaiah@gmail.com ",
@@ -298,7 +297,7 @@
       "imgurl": "    "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Dr. V. Diwakar Reddy ",
       "phone": " (+91)-9440088282",
       "email": "vdrsvuce@gmail.com ",
@@ -306,7 +305,7 @@
       "imgurl": "    "
     },
     {
-      "designation": "Associate Professor",
+      "designation": ["Associate Professor"],
       "name": "Dr. K. Rajesh Babu ",
       "phone": "(+91)-877-2246602 ",
       "email": " kadirikotar2000@yahoo.com",
@@ -314,7 +313,7 @@
       "imgurl": "    "
     },
     {
-      "designation": " Assistant Professor",
+      "designation": ["Assistant Professor"],
       "name": " Dr. K. Dharma Reddy",
       "phone": "(+91)-9494697899, (+91)-877-2242129 ",
       "email": "kdharmareddy@gmail.com ",
@@ -322,7 +321,7 @@
       "imgurl": "    "
     },
     {
-      "designation": "Assistant Professor",
+      "designation": ["Assistant Professor"],
       "name": "Dr. P. Hema ",
       "phone": "(+91)-9490247265, (+91)-877-2244201 ",
       "email": "hema_pothur@yahoo.com ",
@@ -330,7 +329,7 @@
       "imgurl": "    "
     },
     {
-      "designation": "Assistant Professor",
+      "designation": ["Assistant Professor"],
       "name": " Ms. K. Aruna",
       "phone": "(+91)-9000109058",
       "email": " ",
@@ -338,7 +337,7 @@
       "imgurl": "    "
     },
     {
-      "designation": "Assistant Professor",
+      "designation": ["Assistant Professor"],
       "name": "Dr. A. Sreenivasulu Reddy ",
       "phone": "(+91)-9848252269 ",
       "email": " allampati_sr@rediffmail.com",
@@ -348,7 +347,7 @@
   ],
   "Computer Science & Engineering": [
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Dr. K.V. Madhu Murthy",
       "phone": "(+91)-9490507218, (+91)-877-2249191",
       "email": "kvmmurthy@svuce.org",
@@ -356,7 +355,7 @@
       "imgurl": "    "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Dr. P. Venkata Subba Reddy",
       "phone": "(+91)-9849308146, (+91)-877-3204213",
       "email": "vsrpoli@hotmail.com",
@@ -364,7 +363,7 @@
       "imgurl": "    "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Dr. Ch.D.V. Subba Rao",
       "phone": "(+91)-9849879861, (+91)-877-2248930",
       "email": "subbarao_chdv@hotmail.com",
@@ -372,7 +371,7 @@
       "imgurl": "    "
     },
     {
-      "designation": "Professor",
+      "designation": ["Professor"],
       "name": "Prof. M. Humera Khanam",
       "phone": "(+91)-9490923045, 08772248810",
       "email": "humera.svec@gmail.com",
@@ -380,7 +379,7 @@
       "imgurl": "    "
     },
     {
-      "designation": "Asst.Professor",
+      "designation": ["Assistant Professor"],
       "name": "Dr. N. Usha Rani",
       "phone": "  ",
       "email": "",
@@ -388,7 +387,7 @@
       "imgurl": "    "
     },
     {
-      "designation": "Asst.Professor",
+      "designation": ["Associate Professor"],
       "name": "Dr. D. Vivekananda Reddy",
       "phone": " (+91)-9441005225 ",
       "email": "svuvivek@gmail.com",
